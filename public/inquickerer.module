@@ -1,0 +1,74 @@
+<?php
+
+/*
+* @file
+* InQuickerer Module
+*/
+
+/**
+* Implements hook_bloc_info().
+*/
+
+function inquickerer_block_info() {
+  $blocks['inquickerer'] = array(
+    'info' => t('InQuickerer'),
+  );
+
+  return $blocks;
+} 
+
+/*
+*  Implements hook_block_view().
+*/
+
+function inquickerer_block_view($delta = '') {
+  $block = array();
+  $module_path = drupal_get_path('module', 'inquickerer');
+
+  $js_path = glob($module_path . '/static/js/*.js');
+  $css_path = glob($module_path . '/static/css/*.css');
+
+  $arr_of_js = [];
+  $arr_of_css = [];
+
+  foreach($js_path as $js){
+    $output = array(
+      'type' => 'file',
+      'data' => $js,
+      'group' => JS_DEFAULT,
+      'weight' => 5,
+      'scope' => 'footer',
+    );
+    array_push($arr_of_js, $output);
+  }
+
+  foreach($css_path as $css){
+    $output = array(
+      'type' => 'file',
+      'data' => $css,
+      'group' => CSS_THEME,
+      'weight' => 5,
+    );
+    array_push($arr_of_css, $output);
+  }
+
+  switch ($delta) {
+    case 'inquickerer':
+      $block['subject'] = t('InQuickerer');
+      $block['content'] = array(
+        '#markup' => inquickerer_testblock_content(),
+        '#attached' => array(
+          'css' => $arr_of_css,
+          'js' => $arr_of_js,
+        ),
+      );
+    break;
+  }
+
+  return $block;
+}
+
+function inquickerer_testblock_content() {
+
+  return '<div id="inQuickerer"></div>';
+}

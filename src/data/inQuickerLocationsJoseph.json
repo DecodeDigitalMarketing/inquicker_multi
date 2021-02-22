@@ -1,0 +1,30 @@
+[
+  {
+    "client": "St Joseph",
+    "name": "St. Joseph Health Burleson Hospital Emergency Room",
+    "url": "https://stjoseph.stlukeshealth.org/locations/emergency-center-caldwell-tx",
+    "address": "1101 Woodson Dr, Caldwell, Texas 77836",
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40919' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-burleson-hospital'>CHI St. Joseph Health Burleson Hospital</a>"
+  },
+  {
+    "client": "St Joseph",
+    "name": "St. Joseph Health College Station Hospital Emergency Center",
+    "url": "https://stjoseph.stlukeshealth.org/locations/emergency-center-college-station-tx",
+    "address": "1604 Rock Prairie Road, College Station, Texas 77845",
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40803' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-college-station-hospital'>CHI St. Joseph Health College Station Hospital</a>"
+  },
+  {
+    "client": "St Joseph",
+    "name": "St. Joseph Health Grimes Hospital Emergency Center",
+    "url": "https://stjoseph.stlukeshealth.org/locations/emergency-center-navasota-tx",
+    "address": "210 S Judson St, Navasota, Texas 77868",
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40918' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-grimes-hospital'>CHI St. Joseph Health Grimes Hospital</a>"
+  },
+  {
+    "client": "St Joseph",
+    "name": "St. Joseph Health Madison Hospital Emergency Center",
+    "url": "https://stjoseph.stlukeshealth.org/locations/emergency-center-madisonville-tx",
+    "address": "100 W Cross St, Madisonville, Texas 77864",
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-madison-hospital'>CHI St. Joseph Health Madison Hospital</a>"
+  }
+]

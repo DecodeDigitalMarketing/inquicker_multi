@@ -1,0 +1,11 @@
+name = inQuicker Quick
+
+description = A module for rendering a custom inQuicker widget quickly
+
+package = inQuicker Quick
+
+core = 7.x
+
+version = 7.x-1.0
+
+project = inquickerer
