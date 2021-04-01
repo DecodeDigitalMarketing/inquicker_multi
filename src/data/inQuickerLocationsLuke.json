@@ -134,5 +134,13 @@
     "address": "100 Medical Drive, Lake Jackson, Texas 77566",
     "widget": "<a class='inquicker-hmp' data-schedule-id='41002' href='https://chi-tx.inquicker.com/facility/chi-st-lukes-health-brazosport-emergency-services'>CHI St. Luke's Health Brazosport Emergency Services</a>",
     "inqickid": "41002"
+  },
+  {
+    "client": "St Lukes",
+    "name": "St. Luke's Health The Woodlands Emergency Room",
+    "url": "https://www.stlukeshealth.org/locations/emergency-department-woodlands-hospital",
+    "address": "17200 St. Luke's Way, The Woodlands, Texas 77384",
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40880' href='https://chi-tx.inquicker.com/facility/chi-st-lukes-health-the-woodlands-hospital'>CHI - St. Luke's Health: The Woodlands Hospital</a>",
+    "inqickid": "40880"
   }
 ]

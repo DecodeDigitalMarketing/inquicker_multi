@@ -26,5 +26,26 @@
     "url": "https://stjoseph.stlukeshealth.org/locations/emergency-center-madisonville-tx",
     "address": "100 W Cross St, Madisonville, Texas 77864",
     "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-madison-hospital'>CHI St. Joseph Health Madison Hospital</a>"
+  },
+  {
+    "client": "St Joseph",
+    "name": "St. Joseph Health Regional Emergency & Trauma Center",
+    "url": "https://stjoseph.stlukeshealth.org/locations/emergency-trauma-center-bryan-tx",
+    "address": "2801 Franciscan Drive, Bryan, TX 77802",
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40920' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-regional-hospital'>CHI St. Joseph Health Regional Hospital</a>"
+  },
+  {
+    "client": "St Joseph",
+    "name": "St. Joseph Health Respiratory Clinic",
+    "url": "https://stjoseph.stlukeshealth.org/locations/respiratory-clinic-college-station-tx",
+    "address": "4421 State Hwy 6, College Station, TX 77845",
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://brazos-chi-tx.inquicker.com/facility/chi-st-joseph-respiratory-clinic-and-express-care'>CHI St. Joseph Respiratory Clinic and Express Care</a>"
+  },
+  {
+    "client": "St Joseph",
+    "name": "St. Joseph Health Express Care",
+    "url": "https://stjoseph.stlukeshealth.org/locations/express-care-college-station",
+    "address": "4421 State Hwy 6, College Station, TX 77845",
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://brazos-chi-tx.inquicker.com/facility/chi-st-joseph-respiratory-clinic-and-express-care'>CHI St. Joseph Respiratory Clinic and Express Care</a>"
   }
 ]
