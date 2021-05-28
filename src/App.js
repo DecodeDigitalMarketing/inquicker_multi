@@ -23,7 +23,8 @@ import useScript from "./hooks/useScript";
     status && (
       <div id="inquicker-block">
         <div className="inquicker" style={{width: "100%"}}>
-          <h3 className="block-title" style={{width: "100%"}}>Shorten Your ER Wait Time</h3>
+          {/* <h3 className="block-title" style={{width: "100%"}}>Shorten Your ER Wait Time</h3> */}
+          <h3 className="block-title" style={{width: "100%"}}>Shorten Your ER or Express Care Wait Time</h3>
         </div>
         {!selectedIndex.length && <p>Select a Location and time to schedule your ER visit.</p>}
         {selectedIndex && (
