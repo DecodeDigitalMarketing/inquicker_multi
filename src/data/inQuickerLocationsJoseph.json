@@ -4,48 +4,48 @@
     "name": "St. Joseph Health Burleson Hospital Emergency Room",
     "url": "https://stjoseph.stlukeshealth.org/locations/emergency-center-caldwell-tx",
     "address": "1101 Woodson Dr, Caldwell, Texas 77836",
-    "widget": "<a class='inquicker-hmp' data-schedule-id='40919' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-burleson-hospital'>CHI St. Joseph Health Burleson Hospital</a>"
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40919' href='https://chi-tx.inquicker.com/facility/st-joseph-health-burleson-hospital'>CHI St. Joseph Health Burleson Hospital</a>"
   },
   {
     "client": "St Joseph",
     "name": "St. Joseph Health College Station Hospital Emergency Center",
     "url": "https://stjoseph.stlukeshealth.org/locations/emergency-center-college-station-tx",
     "address": "1604 Rock Prairie Road, College Station, Texas 77845",
-    "widget": "<a class='inquicker-hmp' data-schedule-id='40803' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-college-station-hospital'>CHI St. Joseph Health College Station Hospital</a>"
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40803' href='https://chi-tx.inquicker.com/facility/st-joseph-health-college-station-hospital'>CHI St. Joseph Health College Station Hospital</a>"
   },
   {
     "client": "St Joseph",
     "name": "St. Joseph Health Grimes Hospital Emergency Center",
     "url": "https://stjoseph.stlukeshealth.org/locations/emergency-center-navasota-tx",
     "address": "210 S Judson St, Navasota, Texas 77868",
-    "widget": "<a class='inquicker-hmp' data-schedule-id='40918' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-grimes-hospital'>CHI St. Joseph Health Grimes Hospital</a>"
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40918' href='https://chi-tx.inquicker.com/facility/st-joseph-health-grimes-hospital'>CHI St. Joseph Health Grimes Hospital</a>"
   },
   {
     "client": "St Joseph",
     "name": "St. Joseph Health Madison Hospital Emergency Center",
     "url": "https://stjoseph.stlukeshealth.org/locations/emergency-center-madisonville-tx",
     "address": "100 W Cross St, Madisonville, Texas 77864",
-    "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-madison-hospital'>CHI St. Joseph Health Madison Hospital</a>"
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://chi-tx.inquicker.com/facility/st-joseph-health-madison-hospital'>CHI St. Joseph Health Madison Hospital</a>"
   },
   {
     "client": "St Joseph",
     "name": "St. Joseph Health Regional Emergency & Trauma Center",
     "url": "https://stjoseph.stlukeshealth.org/locations/emergency-trauma-center-bryan-tx",
     "address": "2801 Franciscan Drive, Bryan, TX 77802",
-    "widget": "<a class='inquicker-hmp' data-schedule-id='40920' href='https://chi-tx.inquicker.com/facility/chi-st-joseph-health-regional-hospital'>CHI St. Joseph Health Regional Hospital</a>"
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40920' href='https://chi-tx.inquicker.com/facility/st-joseph-health-regional-hospital'>CHI St. Joseph Health Regional Hospital</a>"
   },
   {
     "client": "St Joseph",
     "name": "St. Joseph Health Respiratory Clinic",
     "url": "https://stjoseph.stlukeshealth.org/locations/respiratory-clinic-college-station-tx",
     "address": "4421 State Hwy 6, College Station, TX 77845",
-    "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://brazos-chi-tx.inquicker.com/facility/chi-st-joseph-respiratory-clinic-and-express-care'>CHI St. Joseph Respiratory Clinic and Express Care</a>"
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://brazos-chi-tx.inquicker.com/facility/st-joseph-respiratory-clinic-and-express-care'>CHI St. Joseph Respiratory Clinic and Express Care</a>"
   },
   {
     "client": "St Joseph",
     "name": "St. Joseph Health Express Care",
     "url": "https://stjoseph.stlukeshealth.org/locations/express-care-college-station",
     "address": "4421 State Hwy 6, College Station, TX 77845",
-    "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://brazos-chi-tx.inquicker.com/facility/chi-st-joseph-respiratory-clinic-and-express-care'>CHI St. Joseph Respiratory Clinic and Express Care</a>"
+    "widget": "<a class='inquicker-hmp' data-schedule-id='40923' href='https://brazos-chi-tx.inquicker.com/facility/st-joseph-respiratory-clinic-and-express-care'>CHI St. Joseph Respiratory Clinic and Express Care</a>"
   }
 ]
